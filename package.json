@@ -1,0 +1,20 @@
+{
+  "name": "serverless-rusty",
+  "version": "0.0.1",
+  "description": "A serverless plugin to deploy rust lambdas to AWS with the help of cargo lambda",
+  "main": "serverless-rusty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rust",
+    "serverless",
+    "aws",
+    "lambda"
+  ],
+  "author": "Ferenc Pálvölgyi",
+  "license": "MIT",
+  "peerDependencies": {
+    "serverless": "^2"
+  }
+}
